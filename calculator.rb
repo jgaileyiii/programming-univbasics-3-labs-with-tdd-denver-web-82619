@@ -1,1 +1,1 @@
-first_number = "i"
+first_number = 0
